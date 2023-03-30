@@ -3,8 +3,8 @@ kind: Kustomization
 resources:
 - deployment.yaml
 - service.yaml
-images:
 #- name: ghcr.io/KubeHatesMe/edu12-backend
 #  newTag: "20230322092639"
+images:
 - name: ghcr.io/kubehatesme/edu12-backend
-  newTag: "20230327080600"
+  newTag: "20230330073747"
