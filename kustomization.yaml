@@ -7,4 +7,4 @@ resources:
 #  newTag: "20230322092639"
 images:
 - name: ghcr.io/kubehatesme/edu12-backend
-  newTag: "20230330073747"
+  newTag: "20230331063544"
